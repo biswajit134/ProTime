@@ -8,7 +8,7 @@
 [![Stars](https://img.shields.io/github/stars/GiorgioBertolotti/ProTime.svg)](https://github.com/GiorgioBertolotti/ProTime/stargazers)
 [![Forks](https://img.shields.io/github/forks/GiorgioBertolotti/ProTime.svg)](https://github.com/GiorgioBertolotti/ProTime/network/members)
 [![Issues](https://img.shields.io/github/issues/GiorgioBertolotti/ProTime.svg)](https://github.com/GiorgioBertolotti/ProTime/issues)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)5
 
 <a href='https://www.buymeacoffee.com/GiorgioZem' target="_blank"><img alt='Buy me a coffee' src='https://cdn.buymeacoffee.com/buttons/lato-yellow.png' height="38" width="160" /></a>
 
