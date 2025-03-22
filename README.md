@@ -2,7 +2,7 @@
 
 # ProTime
 
-> Mobile application for tracking projects time
+> Mobile application for tracking projects timef
 
 [![Build Status](https://travis-ci.com/GiorgioBertolotti/ProTime.svg?branch=master)](https://travis-ci.com/GiorgioBertolotti/ProTime)
 [![Stars](https://img.shields.io/github/stars/GiorgioBertolotti/ProTime.svg)](https://github.com/GiorgioBertolotti/ProTime/stargazers)
